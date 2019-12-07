@@ -11,6 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <div>
+
+
+  </div>
   </body>
 </html>
